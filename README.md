@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 [![Linkedin: Zoha Naz](https://img.shields.io/badge/-Faiqua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zoha-naz-a670351b5/)](https://www.linkedin.com/in/zoha-naz-a670351b5/)
-![GitHub followers](https://img.shields.io/github/followers/Faiqua123?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/Faiqua123) 
+![GitHub followers](https://img.shields.io/github/followers/Faiqua123?label=Follow&style=social) ![Profile views](https://github.com/Faiqua123) 
 [![Years Badge](https://badges.pufler.dev/years/Faiqua123)](https://badges.pufler.dev/years/Faiqua123)
 [![Repos Badge](https://badges.pufler.dev/repos/Faiqua123)](https://badges.pufler.dev/repos/Faiqua123)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Faiqua123)](https://badges.pufler.dev/commits/monthly/Faiqua123)
