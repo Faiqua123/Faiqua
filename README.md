@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/zoha-naz-a670351b5/)
 - 😄 Pronouns: she/her
 
--->![Faiqua's github stats](https://github-readme-stats.vercel.app/api?username=Faiquatahreen&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiquatahreen&layout=compact)](https://github.com/Faiqua123/Faiqua/edit/main/README.md) 
+-->![Faiqua's github stats](https://github-readme-stats.vercel.app/api?username=Faiqua&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqua&layout=compact)](https://github.com/Faiqua/github-readme-stats) 
 
 
