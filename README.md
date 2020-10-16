@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/zoha-naz-a670351b5/)
 - 😄 Pronouns: she/her
 
-[![Linkedin: Zoha Naz](https://img.shields.io/badge/-bijayadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zoha-naz-a670351b5/)](https://www.linkedin.com/in/zoha-naz-a670351b5/)
+[![Linkedin: Zoha Naz](https://img.shields.io/badge/-Faiqua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zoha-naz-a670351b5/)](https://www.linkedin.com/in/zoha-naz-a670351b5/)
 ![GitHub followers](https://img.shields.io/github/followers/Faiqua123?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/Faiqua123) 
 [![Years Badge](https://badges.pufler.dev/years/Faiqua123)](https://badges.pufler.dev/years/Faiqua123)
 [![Repos Badge](https://badges.pufler.dev/repos/Faiqua123)](https://badges.pufler.dev/repos/Faiqua123)
