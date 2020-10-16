@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Faiqua123?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/Faiqua123) 
 [![Years Badge](https://badges.pufler.dev/years/Faiqua123)](https://badges.pufler.dev/years/Faiqua123)
 [![Repos Badge](https://badges.pufler.dev/repos/Faiqua123)](https://badges.pufler.dev/repos/Faiqua123)
-[![Updated Badge](https://badges.pufler.dev/updated/Faiqua123/Faiqua123)](https://badges.pufler.dev/updated/Faiqua123)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Faiqua123)](https://badges.pufler.dev/commits/monthly/Faiqua123)
 
 
