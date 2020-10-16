@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 -->![Faiqua's github stats](https://github-readme-stats.vercel.app/api?username=Faiquatahreen&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiquatahreen&layout=compact)](https://github.com/Faiquatahreen/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiquatahreen&layout=compact)](https://github.com/Faiqua123/Faiqua/edit/main/README.md) 
 
 
