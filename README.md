@@ -1,4 +1,5 @@
 # Faiqua
+![](https://komarev.com/ghpvc/?username=Faiquatahreen&color=47ccb3) 
 
 Here are some ideas to get you started:
 
@@ -9,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/zoha-naz-a670351b5/)
 - 😄 Pronouns: she/her
 
--->
+-->![Faiqua's github stats](https://github-readme-stats.vercel.app/api?username=Faiquatahreen&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiquatahreen&layout=compact)](https://github.com/Faiquatahreen/github-readme-stats) 
+
+
